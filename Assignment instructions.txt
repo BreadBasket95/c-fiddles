@@ -1,0 +1,14 @@
+Create a new project - in the project create:
+A header file(.h) for the class using your class name to name the file
+A source file (.cpp) for the class definitions using the class name 
+A source file for your main() function
+Design a class that has an array of floating-point numbers.  A constructor should accept an integer argument and dynamically allocate the array to hold that many numbers.  A destructor will free the memory held by the array. The class will have member functions to perform the following operations:
+Store a number in any element of the array
+Retrieve a number from any element of the array
+Return the highest value stored in the array
+Return the lowest value stored in the array
+Return the average of all numbers stored in the array
+Demonstrate the class in a main() program.
+
+
+Submit the 3 files in Canvas
